@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 300px;
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/1080053384/display_1500/stock-photo-composition-with-to-do-list-on-white-background-1080053384.jpg);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #app {
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    padding: 8px;
+    background-color: #f5f5f5;
+  }
+  
+  .delete-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    cursor:pointer;
+  }
